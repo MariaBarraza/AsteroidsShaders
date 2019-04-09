@@ -10,7 +10,7 @@ public:
 	enum Direccion {Izquierda, Derecha};
 	float angulo;
 	float velocidadAngular = 280.0f;
-	float velocidad = 1.7Sf;
+	float velocidad = 1.7f;
 	float aceleracion = 0.03f;
 	float desaceleracion = 0.05f;
 	float velocidadActual=0.0f;
